@@ -1,3 +1,3 @@
 # nickdee96.github.io
-Personal website and portfolio.
 
+Personal site of Nick Mumero, served by GitHub Pages: a single self-contained `index.html`.
